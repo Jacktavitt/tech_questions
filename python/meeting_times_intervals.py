@@ -2,7 +2,12 @@
 
 ''' Given an array of meeting time intervals consisting of 
     start and end times [[s1,e1],[s2,e2],...] (si < ei), 
-    find the minimum number of conference rooms required. '''
+    find the minimum number of conference rooms required. 
+    
+    Author: John Feilmeier
+        github.com/jacktavitt
+    Source: Leetcode (1337code?)    
+'''
 INPUT1 = [[0, 30],[5, 10],[15, 20]]
 # Output:2
 INPUT2 = [[0, 10], [5, 25], [20, 30],[27, 28]]
