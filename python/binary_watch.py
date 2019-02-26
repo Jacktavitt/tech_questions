@@ -23,7 +23,7 @@ def readBinaryWatch(num: int) -> List[str]:
     S: O(1) same as above, limited loop but hours and minutes
 
     this answer accepted by leetcode
-
+    Author: John Feilmeier
     '''
     times_list = []
     for hour in range(12):

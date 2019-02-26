@@ -29,6 +29,7 @@ def checkSubarraySum(nums: List[int], k: int) -> bool:
     T: O(n)
     S: O(n)
     accepted on https://leetcode.com/problems/continuous-subarray-sum/
+    Author: John Feilmeier
     '''
     if len(nums) < 2:
         return False
